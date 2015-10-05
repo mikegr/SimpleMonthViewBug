@@ -37,7 +37,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Time 23:59:59:000"
+        android:text="Time 23:59:59:999"
         android:id="@+id/button4"
         android:layout_gravity="center_vertical" />
 </LinearLayout>
